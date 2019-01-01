@@ -2831,6 +2831,7 @@ time.published + .updated {
 	font-weight: inherit;
 	font-style: normal;
 	line-height: 2;
+	width: 120px;	
 	color: #929292;
 }
 
