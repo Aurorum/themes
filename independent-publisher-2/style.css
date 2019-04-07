@@ -837,7 +837,7 @@ input::-moz-focus-inner {
 	font-size: 17px;
 	font-weight: bold;
 	line-height: 1;
-	color: #a4a4a4;
+	color: inherit;
 	border: solid 2px currentColor;
 	border-radius: 4px;
 	background: none;
